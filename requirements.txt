@@ -1,0 +1,11 @@
+python-dotenv
+openai
+pandas
+regex
+numpy
+scipy
+scikit-learn
+matplotlib
+tiktoken
+langchain
+langchain_community
